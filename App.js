@@ -5,14 +5,14 @@ import {Image} from 'react-native';
 const Picture = () => {
   return(
     <View>
-       <Image source={{ uri: 'https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-1/366377639_322341903554884_1122148775176227160_n.jpg?stp=dst-jpg_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=6e0f69&_nc_eui2=AeFR8Qp0-472G_shR3RzXQHX55UFm_YwOIXnlQWb9jA4hS8po0xQRr7G1EDXMZmLs3DaIq298a_-hth6adV0pq7i&_nc_ohc=ZqJwG8Y8R8sAX8vLpeh&_nc_ht=scontent.fmnl9-3.fna&_nc_e2o=c&oh=00_AfCIzpLCP-NYWL2vMwd5oErYjl2-lKVM8j_0G4wG-54-Sg&oe=64FB5242'}} style ={styles.Picture} />
+       <Image source={{ uri: 'https://th.bing.com/th/id/OIP._AQpIXUwQu5fZklFIN7Y5gHaGM?w=220&h=184&c=7&r=0&o=5&dpr=1.3&pid=1.7'}} style ={styles.Picture} />
      </View>
   ) 
 };
 const BioData = () =>{
   return(
     <View> 
-<Text style ={styles.name}> Miarafe R. Betasa </Text>
+<Text style ={styles.name}> Nilson Rabanes </Text>
 <Text style={styles.course}> BS Information Technology </Text> 
 </View>
   )
