@@ -5,14 +5,14 @@ import {Image} from 'react-native';
 const Picture = () => {
   return(
     <View>
-       <Image source={{ uri: 'https://scontent.fmnl9-2.fna.fbcdn.net/v/t39.30808-6/365123906_1723115218132149_3203234298371773746_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGDOU5G78mYPizw9nTkCrINKb86Cp4rZGcpvzoKnitkZ77bTLuK4BK-9bV96eFA4U--b1q6xhN1yc1jmtUHf9aN&_nc_ohc=1w6u8oMo99cAX_nWgam&_nc_oc=AQmIZ3WZfVf5xlaiUl764kME7TCMTeTqg1WX5222Y_511R3XcDefnQvO9-W90cXtFjE&_nc_ht=scontent.fmnl9-2.fna&_nc_e2o=c&oh=00_AfBqzU4NlvPUtP1Dy7zdyEML3v1o3-yPVEsxhxzlVYkt0w&oe=64FAB525'}} style ={styles.Picture} />
+       <Image source={{ uri: 'https://scontent.fmnl9-1.fna.fbcdn.net/v/t39.30808-6/365282666_635583915202685_2213718230906510146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFc-WVBoZUFELLSUXK9zCCTWBe51qfsiy1YF7nWp-yLLZnbLNcMhlDWW2fnkcvgtcraTUf4kSwbl4jpMKbneD_1&_nc_ohc=vIjzKhAC1ZEAX8DyBAB&_nc_ht=scontent.fmnl9-1.fna&_nc_e2o=c&oh=00_AfAmlxSsreF_bqpWFjaCxtUBNe7UFCJuq3dIaeyVZIpHbA&oe=64FB6EAB'}} style ={styles.Picture} />
      </View>
   ) 
 };
 const BioData = () =>{
   return(
     <View> 
-<Text style ={styles.name}> Jhannel N Quisquirin </Text>
+<Text style ={styles.name}> Jenmarie J. Cumahig </Text>
 <Text style={styles.course}> BS Information Technology </Text> 
 </View>
   )
