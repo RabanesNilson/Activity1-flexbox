@@ -5,14 +5,14 @@ import {Image} from 'react-native';
 const Picture = () => {
   return(
     <View>
-       <Image source={{ uri: 'https://scontent.fmnl9-1.fna.fbcdn.net/v/t39.30808-6/365282666_635583915202685_2213718230906510146_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFc-WVBoZUFELLSUXK9zCCTWBe51qfsiy1YF7nWp-yLLZnbLNcMhlDWW2fnkcvgtcraTUf4kSwbl4jpMKbneD_1&_nc_ohc=vIjzKhAC1ZEAX8DyBAB&_nc_ht=scontent.fmnl9-1.fna&_nc_e2o=c&oh=00_AfAmlxSsreF_bqpWFjaCxtUBNe7UFCJuq3dIaeyVZIpHbA&oe=64FB6EAB'}} style ={styles.Picture} />
+       <Image source={{ uri: 'https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-1/366377639_322341903554884_1122148775176227160_n.jpg?stp=dst-jpg_p480x480&_nc_cat=102&ccb=1-7&_nc_sid=6e0f69&_nc_eui2=AeFR8Qp0-472G_shR3RzXQHX55UFm_YwOIXnlQWb9jA4hS8po0xQRr7G1EDXMZmLs3DaIq298a_-hth6adV0pq7i&_nc_ohc=ZqJwG8Y8R8sAX8vLpeh&_nc_ht=scontent.fmnl9-3.fna&_nc_e2o=c&oh=00_AfCIzpLCP-NYWL2vMwd5oErYjl2-lKVM8j_0G4wG-54-Sg&oe=64FB5242'}} style ={styles.Picture} />
      </View>
   ) 
 };
 const BioData = () =>{
   return(
     <View> 
-<Text style ={styles.name}> Jenmarie J. Cumahig </Text>
+<Text style ={styles.name}> Miarafe R. Betasa </Text>
 <Text style={styles.course}> BS Information Technology </Text> 
 </View>
   )
